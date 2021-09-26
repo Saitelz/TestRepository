@@ -32,7 +32,7 @@
 *.app
 
 #Cancel debug
-*.DS_Store
+/TestProject/**/cmake-build-debug*
+/TestProject/**/.idea*
 *.txt
-cmake-build-debug
-*.idea
+
