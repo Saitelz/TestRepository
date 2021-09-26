@@ -35,3 +35,7 @@
 /TestProject/**/cmake-build-debug*
 /TestProject/**/.idea*
 *.txt
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6aeba8654237a61f418448f642afb65bdc247889
