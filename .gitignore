@@ -35,5 +35,3 @@
 /TestProject/**/cmake-build-debug*
 /TestProject/**/.idea*
 *.txt
-
-#test
